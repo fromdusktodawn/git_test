@@ -12,5 +12,6 @@ int main() {
     cout << "hello world" << endl;
     cout << "hello wjl" << endl;
     cout << "hello wjy" << endl;
+    printf("this");
     return 0;
 }
